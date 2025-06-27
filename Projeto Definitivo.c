@@ -137,6 +137,7 @@ exibirremedios(){
         return;
     }
 
+    
     if (sessao->totalremedio == 0){
         printf("Nao existem remedios cadastrados nesta sessao.\n");
         return;
