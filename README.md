@@ -1,7 +1,3 @@
-Beleza, Vitor! Aqui está uma explicação simples, direta e estruturada que você pode colocar no **README** do projeto do sistema da farmácia Drogafarm:
-
----
-
 # **Sistema de Gerenciamento Drogafarm**
 
 ## **Descrição do Projeto**
